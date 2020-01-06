@@ -59,3 +59,5 @@
 
     Bonus: Here's an [explanation of the draw animation](https://css-tricks.com/svg-line-animation-works/) if you'd like to dig deeper.
 
+--------------------------
+In case you lose the link: https://github.com/wi-fighters/54-svg-checkmark-SimonSchoetz
