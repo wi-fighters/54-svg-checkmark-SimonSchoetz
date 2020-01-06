@@ -18,7 +18,13 @@ svg, svg * {
 #cm-in:active {
     stroke: #55D21A;
     animation: draw .5s linear forwards;
+    animation-iteration-count: 1;
 }
+
+#cm-in:visited {
+    
+}
+
 
 @keyframes draw {
     from {
