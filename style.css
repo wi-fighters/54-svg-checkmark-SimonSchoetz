@@ -6,11 +6,15 @@ body {
     justify-content: center;
         
 }
-#check-mark {
+svg, svg * {
     transition:  0.05s;
 }
 
 #check-mark:hover {
     transform: scale(1.5);
     
+}
+
+#cm-in:active {
+    stroke: #55D21A;
 }
